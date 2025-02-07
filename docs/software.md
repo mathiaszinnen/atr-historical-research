@@ -15,7 +15,7 @@ In our Bring Your Own Data Lab workshop in February 2025, we discussed that (hig
 ## Document / image annotation and qualitative analysis
 
 - [cvat.ai](https://www.cvat.ai/) (data engine for machine learning to annotate images)
-- [LabelStudio](https://labelstud.io/) (tool for annotating images, includes a workflow to semi-automatically annotate texts to generate descriptions)
+- [LabelStudio](https://labelstud.io/) (tool for annotating images, includes a workflow to semi-automatically annotate texts to generate transcriptions)
 - [Atlas.ti](https://atlasti.com/) (tool for qualitative data analysis, including options to create visualisations based on tags and free text)
 - [NVivo](https://lumivero.com/products/nvivo/) (qualiative research software)
 
